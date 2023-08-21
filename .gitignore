@@ -2,6 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,python,visualstudiocode
 
 note.txt
+guess_game_sda.py
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
